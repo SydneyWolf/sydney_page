@@ -1,0 +1,54 @@
+h1{
+    color:pink;
+    background-color:#c242f4;
+    text-align: center;
+    height: 50px;
+    font: size 50px;
+    border: pink 20px solid;
+    padding: 10px;
+}
+
+section{
+    background-color: cyan;
+    padding: 20px;
+    margin: 5px;
+
+}
+
+.A{
+    background-color: aquamarine;
+    margin-right: 200px;
+    margin-left: 400px;
+    padding: 5px;
+    width: 500px;
+    
+    
+}
+
+.photo
+{
+width: 500px;
+height: 500px;
+background-image: url("IMG1.jpg");
+background-size: auto;
+background-repeat: no-repeat;
+background-color: papayawhip;
+
+
+}
+
+
+.my{
+    
+    display: block;
+    margin: auto;
+    background-color: aquamarine;
+    
+
+}
+
+.B{
+    font-family: 'Sacramento', cursive;
+
+
+}

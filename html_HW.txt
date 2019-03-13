@@ -1,0 +1,17 @@
+Hello，為了避免大家下次上課忘光光，來寫個作業練習一下
+作業題目：
+     1. 確定HTML裡面的內容都換成自己的資料
+     2. 搜尋把大頭貼置中的方法（提示：使用 margin）
+    
+     用 div 製作圖片的教學：
+         ㄧ、定義一個 div，給他取一個 class name 方便裝飾他
+         二、要有 width 跟 height
+         三、放入 background-image:url("圖片網址");
+         四、調整 background-size 跟 background-repeat
+
+     3. 把所有的 img 都改成用 div 放圖的方式
+     4. 活動照片放2~3張（投影片裡有活動照片連結）
+     5. (加分題) 改字型，教學在這：https://pjchender.blogspot.com/2016/09/google.html
+
+投影片：
+https://docs.google.com/presentation/d/1hW-1EwO8sy859v8cuiRdQIUKdI2UNsq55qJL7c3jXzM/edit?usp=sharing
