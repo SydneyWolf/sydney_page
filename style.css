@@ -16,6 +16,7 @@ section{
 }
 
 
+
 .A{
     background-color: aquamarine;
     margin-right: 200px;
@@ -49,6 +50,12 @@ background-color: papayawhip;
 }
 
 .B{
+    font-family: 'Sacramento', cursive;
+
+
+}
+
+.C{
     color:green;
     font-size: 20px;
 
